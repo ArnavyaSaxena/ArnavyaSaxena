@@ -8,18 +8,18 @@ Developing an **Autonomous Mobile Robot** using **NVIDIA Jetson Orin Nano and RO
 
 Key components of the system include:
 
-* LiDAR-based environment perception
-* Depth camera for visual sensing
-* SLAM for real-time mapping and localization
-* ROS2-based modular robotics architecture
-* Arduino/ATmega16-based motor control
+* **LiDAR-based environment perception**
+* **Depth camera for visual sensing**
+* **SLAM for real-time mapping and localization**
+* **ROS2-based modular robotics architecture**
+* **Arduino/ATmega16-based motor control**
 * Differential-drive navigation
 
 High-level computation and perception run on the Jetson platform while low-level motor control and hardware interfacing are handled by microcontrollers.
 
 ## Previous Project
 
-Built a Differential Drive Robotic Platform using Raspberry Pi 5 and Arduino.
+Built a **Differential Drive Robotic Platform** using **Raspberry Pi 5 and Arduino**.
 
 Key features:
 
@@ -59,4 +59,4 @@ Key features:
 
 ---
 
-Currently exploring autonomous navigation, embedded control systems, and robotics software architecture.
+Currently exploring **autonomous navigation, embedded control systems, and robotics software architecture**.
